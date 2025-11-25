@@ -439,7 +439,7 @@ export default function Home() {
       )}
       <div className="flex min-h-screen justify-center px-4 py-10 text-slate-900" style={{ background: "#F7F7F7" }}>
       <main className="flex w-full max-w-5xl flex-col gap-8 rounded-3xl p-8 shadow-[0_30px_80px_rgba(15,23,42,0.08)] lg:flex-row lg:gap-12" style={{ background: "#F7F7F7" }}>
-        <aside className="flex flex-row justify-between text-sm font-medium text-slate-500 lg:flex-col lg:justify-start lg:text-base">
+        <aside className="mt-[140px] flex flex-row justify-between text-sm font-medium text-slate-500 lg:flex-col lg:justify-start lg:text-base">
           <div className="space-y-4">
             <p className="text-xs uppercase tracking-[0.2em] text-slate-400">Bounty Steps</p>
             <ol className="space-y-3">
